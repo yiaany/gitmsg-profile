@@ -1,0 +1,9 @@
+{
+  "profile": {
+    "name": "boss",
+    "bio": "ceo",
+    "color": "#6c61df"
+  },
+  "app": "gitmsg",
+  "version": 1
+}
